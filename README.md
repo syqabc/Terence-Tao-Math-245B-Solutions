@@ -1,1 +1,1 @@
-Solutions to problems in Math 245B taught by Terence Tao
+Solutions to problems in notes of Math 245B taught by Terence Tao
